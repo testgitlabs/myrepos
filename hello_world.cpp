@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {   
+//профикшено
     char s[80];
     cout << "Input user name: ";
     cin >> s;
