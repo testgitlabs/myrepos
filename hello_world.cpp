@@ -2,11 +2,10 @@
 using namespace std;
 int main()
 {   
-//профикшено
-    char s[80];
+    char sg[80];
     cout << "Input user name: ";
-    cin >> s;
-    cout << "Hello World from @" << s << endl;
+    cin >> sg;
+    cout << "Hello World from @" << sg << endl;
 	system("pause");
     return 0;
 }
