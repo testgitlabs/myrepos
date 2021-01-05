@@ -1,5 +1,6 @@
 #include <iostream>
 //using namespace std;
+ошибка
 int main()
 {   
     char s[80];
