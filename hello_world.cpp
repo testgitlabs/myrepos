@@ -5,7 +5,7 @@ int main()
     char s[80];
     cout << "Input user name: ";
     cin >> s;
-    cout << "Hello world from@" << s << endl;
+    cout << "Hello World from @" << s << endl;
 	system("pause");
     return 0;
 }
