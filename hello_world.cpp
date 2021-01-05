@@ -3,7 +3,7 @@
 using namespace std;
 
 int main()
-{   
+{
 //профикшено
     char userName[80];
     cout << "Input user name: ";
