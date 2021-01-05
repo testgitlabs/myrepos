@@ -1,12 +1,14 @@
 #include <iostream>
+
 using namespace std;
+
 int main()
 {   
 //профикшено
-    char s[80];
+    char userName[80];
     cout << "Input user name: ";
-    cin >> s;
-    cout << "Hello World from @" << s << endl;
+    cin >> userName;
+    cout << "Hello World from @" << userName << endl;
 	system("pause");
     return 0;
 }
